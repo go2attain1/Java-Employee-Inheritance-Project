@@ -1,4 +1,4 @@
-# Java-Employee-Inheritance-Project
+# Java Employee Inheritance Project
 A Java project demonstrating inheritance, method overriding, method overloading, and
 unit testing. It models three kinds of workers: regular employees, part-time employees,
 and external contractors.
@@ -28,10 +28,15 @@ The project is built around an `Employee` base class with two subclasses:
 
 ## Project Structure
 ├── Employee.java
+
 ├── EmployeeTest.java
+
 ├── PartTimeEmployee.java
+
 ├── PartTimeEmployeeTest.java
+
 ├── ExternalContractor.java
+
 └── ExternalContractorTest.java
 
 
